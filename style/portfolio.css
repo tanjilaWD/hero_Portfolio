@@ -245,3 +245,6 @@ footer .footer-container{
     border-radius: 5px;
     color: #757575;
 }
+.footer-container .btn{
+    color: white;
+}
